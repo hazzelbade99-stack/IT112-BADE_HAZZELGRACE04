@@ -2,7 +2,7 @@
 
 int main() {
     char name[100];
-    char section[80];
+    char section[50];
     float grade1, grade2, grade3, grade4;
     float average;
 
