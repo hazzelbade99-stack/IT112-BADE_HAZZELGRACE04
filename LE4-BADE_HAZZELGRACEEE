@@ -6,11 +6,11 @@ int main() {
     float grade1, grade2, grade3, grade4;
     float average;
 
-    printf("\nEnter your complete name: ");
-    scanf(" %s", &name);
+    printf("Enter your complete name: ");
+    scanf("%s", &name);
 
-    printf("\nEnter your section: ");
-    scanf(" %s", &section);
+    printf("Enter your section: ");
+    scanf("%s", &section);
 
     printf("Enter 1st Quarter Grade: ");
     scanf("%f", &grade1);
